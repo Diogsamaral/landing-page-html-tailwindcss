@@ -1,7 +1,5 @@
-
-
 {
-  "name": "meu-projeto",
+  "name": "landing_page-html-tailwind-main",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
