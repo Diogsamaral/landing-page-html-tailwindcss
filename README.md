@@ -1,0 +1,1 @@
+Esse repositorio foi uma tentativa de contruir um front end responsivo que deu errado. Não foi ultilizado as tecnologias necessárias. Mas ainda sim deixo essas informações expostas para nivel de consulta e  estudo
